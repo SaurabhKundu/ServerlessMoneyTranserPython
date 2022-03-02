@@ -1,0 +1,9 @@
+{
+  "beneficiaryId": "cus1",
+  "beneficiaryAccountId": "acc1",
+  "beneficiaryAccountType": "SAVINGS",
+  "senderId": "cus2",
+  "senderAccountType": "SAVINGS",
+  "senderAccountId": "acc2",
+  "amount": 100
+}
